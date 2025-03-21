@@ -17,7 +17,8 @@ function Hero() {
         , Fullstack Developer
       </h1>
       <p className="mt-4 text-lg text-gray-300">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+        I'm a passionate developer skilled in the MERN stack and other modern
+        web technologies.
       </p>
       <div className="mt-8 space-x-4">
         <button className="bg-gradient-to-r from-green-400 to-blue-500 text-white rounded-full transform transition-transform duration-300 hover:scale-105 px-4 py-2">

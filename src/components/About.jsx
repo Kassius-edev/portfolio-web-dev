@@ -14,10 +14,19 @@ function About() {
           />
           <div className="flex-1">
             <p className="mb-8 text-lg ">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque nam
-              est unde placeat enim aut ullam aliquam ipsa officia voluptatem
-              impedit nisi, incidunt commodi harum quod temporibus eos facere
-              cumque.
+              Hi there! I'm Wanderson Kassius, a passionate full-stack web
+              developer specializing in the MERN stack. I love building dynamic,
+              scalable, and user-friendly web applications that solve real-world
+              problems. <br /> With a strong foundation in JavaScript, HTML,
+              CSS, and Tailwind CSS, I focus on creating clean, responsive, and
+              efficient interfaces. On the backend, I leverage Node.js and
+              Express to develop robust APIs and seamless database integrations
+              with MongoDB.
+              <br /> Beyond coding, I enjoy sharing my journey and projects,
+              continuously learning new technologies, and collaborating with
+              other developers. I'm always up for new challenges and
+              opportunities to create innovative digital experiences.
+              <br />
             </p>
             <div className="space-y-4">
               <div className="flex items-center">
